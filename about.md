@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We're one part multi-facted gem and one part nerd.
 
-### More Information
+<!-- ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A place to include any other types of information that you'd like to include about yourself. -->
 
-### Contact me
+### Contact us
 
-[email@domain.com](mailto:email@domain.com)
+[yourgalpals@gmail.com](mailto:yourgalpals@gmail.com)
